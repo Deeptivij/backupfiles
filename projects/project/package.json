@@ -1,0 +1,11 @@
+{
+  "name": "deepti",
+  "version": "1.0.0",
+  "description": "Gst calculation",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
